@@ -1,1 +1,1 @@
-# Carpathians
+# goit-js-hw-06
