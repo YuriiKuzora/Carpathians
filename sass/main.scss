@@ -1,7 +1,20 @@
-body {
-  background-color: white;
-}
+// ------------Section------------
+@import './base/header';
+@import './base/hero';
+@import './base/about';
+@import './base/advantages';
+@import './base/tours';
+@import './base/reviews';
+@import './base/gallery';
+@import './base/form';
+@import './base/footer';
 
-p {
-  color: teal;
+// -------------Utils-------------
+@import './utils/variables';
+
+body {
+  background-color: rgb(134, 134, 129);
+}
+* {
+  color: aquamarine;
 }
